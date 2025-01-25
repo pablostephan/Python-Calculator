@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 def soma(x, y): return x + y
 def subtrair(x, y): return x - y
 def multiplicar(x, y): return x * y
@@ -24,22 +18,3 @@ def calc():
             print('Operação inválida')
 
 calc()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
